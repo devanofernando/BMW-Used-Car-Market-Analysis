@@ -1,4 +1,4 @@
-# Milestone 1 Devano Fernando Boes
+# BMW-Used-Car-Market-Analysis
 
 ## Repository Outline
 ```
@@ -36,3 +36,4 @@ scipy untuk melakukan uji hipotesis (t-test).`
 `Link dataset (kaggle): https://www.kaggle.com/datasets/wardabilal/bmw-cars-dataset-analysis-with-visualizations`
 
 ---
+
